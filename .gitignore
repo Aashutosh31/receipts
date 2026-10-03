@@ -1,0 +1,26 @@
+# Local agent and coding-tool state
+.agents/
+.codex/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor and workspace state
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local logs and environment files
+*.log
+.env
+.env.*
+!.env.example
+
+# Temporary build and coverage output
+coverage/
+dist/
+build/
+.tmp/
+.temp/
