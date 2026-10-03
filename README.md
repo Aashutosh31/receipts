@@ -1,6 +1,6 @@
 # Receipts website
 
-The public website for [Receipts](https://github.com/Aashutosh31/receipts), a 90-day accountability app built around clear commitments and an honest record.
+The public website for [Receipts](https://github.com/Aashutosh31/receipts-app), a 90-day accountability app built around clear commitments and an honest record.
 
 Live site: <https://aashutosh31.github.io/receipts/>
 
@@ -58,6 +58,6 @@ The site contains no application secrets. Do not add credentials, private keys, 
 
 ## Related project
 
-- [Receipts Android source](https://github.com/Aashutosh31/receipts)
-- [Privacy policy](https://github.com/Aashutosh31/receipts/blob/main/docs/PRIVACY.md)
-- [Security reporting](https://github.com/Aashutosh31/receipts/security/policy)
+- [Receipts Android source](https://github.com/Aashutosh31/receipts-app)
+- [Privacy policy](https://github.com/Aashutosh31/receipts-app/blob/main/docs/PRIVACY.md)
+- [Security reporting](https://github.com/Aashutosh31/receipts-app/security/policy)
