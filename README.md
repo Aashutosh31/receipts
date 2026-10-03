@@ -23,9 +23,9 @@ This is a dependency-free static site. It has no backend, authentication, analyt
 ├── script.js           # Mobile navigation behavior
 ├── public/
 │   ├── images/         # Android screenshots
-│   ├── favicon.svg
-│   ├── robots.txt
-│   └── sitemap.xml
+│   └── favicon.svg
+├── robots.txt           # GitHub Pages root metadata
+└── sitemap.xml          # GitHub Pages root metadata
 ├── DEVLOG.md           # Dated implementation and verification notes
 └── .gitignore          # Local-only files excluded from Git
 ```
@@ -42,7 +42,7 @@ Open <http://localhost:4173/> in a browser. The site uses relative asset paths s
 
 ## Deployment
 
-The production URL is <https://aashutosh31.github.io/receipts/>. Publish the repository root through GitHub Pages. Keep the canonical URL in `index.html` and the URL in `public/sitemap.xml` aligned with the live address.
+The production URL is <https://aashutosh31.github.io/receipts/>. Publish the repository root through GitHub Pages. Keep the canonical URL in `index.html`, the sitemap URL in `sitemap.xml`, and the `Sitemap` directive in `robots.txt` aligned with the live address.
 
 ## Verification checklist
 

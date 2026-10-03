@@ -7,7 +7,7 @@
 - Created an independent, dependency-free static website for the Receipts Android app.
 - Used the supplied real Android screenshots as product imagery and kept the page responsive and keyboard navigable.
 - Added Android v1.0.0 release and source links, privacy and security links, and the verified release checksum.
-- Set the canonical page and sitemap URL to `https://aashutosh31.github.io/receipts/`.
+- Set the canonical page and root sitemap URL to `https://aashutosh31.github.io/receipts/`.
 
 ### Deployment correction
 

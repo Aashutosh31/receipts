@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aashutosh31.github.io/receipts/sitemap.xml
